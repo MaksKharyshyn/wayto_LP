@@ -2,3 +2,188 @@
     background-color: #D6FC52;
     ;
 }
+
+.nav_link {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.btn_sign_in {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    align-items: center;
+    background: #D6FC52;
+    color:#000000;
+}
+
+.btn_sign_up {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    align-items: center;
+    color:  #FFFFFF;
+    background: #000000;
+    ;
+}
+
+.magic_title {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 107px;
+    line-height: 110px;
+    letter-spacing: 7px;
+    align-items: center;
+    color: #000000;
+}
+
+.magic_btn {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 58px;
+    letter-spacing:0.8px;
+    align-items: center;
+    color: #D6FC52;
+    background: #000000;
+}
+
+ .easy_title {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 101px;
+    line-height: 110px;
+    letter-spacing: 7px;
+    align-items: center;
+    color:#000000;
+
+ }
+
+ .easy_text {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing:1.5px;
+    align-items: center;
+    color: #000000; 
+ }
+
+ .fast_title {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 99px;
+    line-height: 110px;
+    letter-spacing:7px;
+    align-items: center;
+    color:#000000;
+
+ }
+
+ .fast_text {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing:1.5px;
+    align-items: center;
+    color: #000000; 
+ }
+
+ .cost_title {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 101px;
+    line-height: 110px;
+    letter-spacing:7px;
+    align-items: center;
+    color:#000000;
+ }
+
+ .cost_text {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing:1.5px;
+    align-items: center;
+    color: #000000; 
+ }
+
+ .meet_title {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 106px;
+    line-height: 110px;
+    letter-spacing:7px;
+    align-items: center;
+    color:#000000;
+ }
+
+ .meet_btn {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 58px;
+    letter-spacing:0.8px;
+    align-items: center;
+    color: #D6FC52;
+    background: #000000;
+ }
+
+ .offer_title {
+    font-family: Permanent Marker;
+    font-weight: 400;
+    font-size: 62px;
+    line-height: 161.2px;
+    align-items: center;
+    color:#D6FC52;
+ }
+
+ .offer_text {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 48px;
+    letter-spacing:1.5px;
+    align-items: center;
+    color: #000000; 
+ }
+
+ .offer_link {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 48px;
+    letter-spacing:1.5px;
+    align-items: center;
+    color: #000000; 
+ }
+
+ .nav_link {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+ }
+
+.sub_footer_text {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    
+    align-items: center;
+    color: #000000; 
+}
+
+
+
+
+
