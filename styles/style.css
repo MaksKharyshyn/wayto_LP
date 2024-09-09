@@ -3,6 +3,26 @@
     ;
 }
 
+/*header styles*/
+
+.header {
+   display: flex;
+   justify-content: space-around;
+   padding: 25px 31px;
+}
+
+.nav_list {
+   display: flex;
+}
+
+.nav_item {
+   margin-right: 44px;
+}
+
+.nav_item:last-child {
+   margin-right: 0px
+}
+
 .nav_link {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-weight: 400;
@@ -11,14 +31,21 @@
     color: #000000;
 }
 
+/*registration styles*/
+
+.registration {
+}
+
 .btn_sign_in {
     font-family: Roboto;
     font-weight: 400;
     font-size: 15px;
     line-height: 20px;
     align-items: center;
-    background: #D6FC52;
     color:#000000;
+    border: none;
+    background-color: inherit;
+    margin-right: 50px;
 }
 
 .btn_sign_up {
@@ -29,8 +56,12 @@
     align-items: center;
     color:  #FFFFFF;
     background: #000000;
-    ;
+    border: none;
+    border-radius: 10px;
+    padding: 1px 20px;
 }
+
+/*magic styles*/
 
 .magic_title {
     font-family: Manrope;
@@ -53,6 +84,8 @@
     background: #000000;
 }
 
+/*easy styles*/
+
  .easy_title {
     font-family: Manrope;
     font-weight: 400;
@@ -74,6 +107,8 @@
     color: #000000; 
  }
 
+ /*fast styles*/
+
  .fast_title {
     font-family: Manrope;
     font-weight: 400;
@@ -82,7 +117,6 @@
     letter-spacing:7px;
     align-items: center;
     color:#000000;
-
  }
 
  .fast_text {
@@ -94,6 +128,8 @@
     align-items: center;
     color: #000000; 
  }
+
+ /*cost styles*/
 
  .cost_title {
     font-family: Manrope;
@@ -115,6 +151,8 @@
     color: #000000; 
  }
 
+/*meet styles*/
+
  .meet_title {
     font-family: Manrope;
     font-weight: 400;
@@ -135,6 +173,8 @@
     color: #D6FC52;
     background: #000000;
  }
+
+ /*offer styles*/
 
  .offer_title {
     font-family: Permanent Marker;
@@ -164,6 +204,8 @@
     align-items: center;
     color: #000000; 
  }
+
+ /*footer styles*/
 
  .nav_link {
     font-family: Roboto, Arial, Helvetica, sans-serif;
